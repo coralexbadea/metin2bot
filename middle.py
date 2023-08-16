@@ -65,7 +65,6 @@ while 1:
                 break
                 
     if(count > 10):
-        print("cacat")
         count = 0;
         if(random.randint(1,2) % 2):
             click_y = dimensions['top'] + 120
